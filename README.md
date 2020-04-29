@@ -1,1 +1,1 @@
-Assignment 2 of the course Neural Networks & Fuzzy Logic
+Assignment 2 for the course Neural Networks & Fuzzy Logic based on Back-propagation.
