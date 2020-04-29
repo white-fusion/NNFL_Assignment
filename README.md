@@ -1,1 +1,1 @@
-Assignment 2 for the course Neural Networks & Fuzzy Logic based on Back-propagation.
+BITS F312(Neural Networks & Fuzzy Logic) Assignment based on Back-propagation.
